@@ -1,5 +1,15 @@
-.myCard {
-    background-color: blue;
-    padding: 5rem 0;
-    border: 5px solid red;
+body {
+    height: 100vh;
+}
+
+#colsContainer {
+    padding: 2rem 0 ;
+}
+
+img {
+    width: 90%;
+}
+
+.card-text {
+    text-align: center;
 }
